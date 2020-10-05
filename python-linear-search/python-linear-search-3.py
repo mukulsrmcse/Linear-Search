@@ -18,6 +18,3 @@ if str(linearsearch(arr,x)) == 'Not found':
     print("Element not found")    
 else:
     print("Element found at index "+str(linearsearch(arr,x)))
-
-    
-    
